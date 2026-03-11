@@ -22,6 +22,9 @@ Welcome to the **Performance Testing** project repository. This repository conta
 
 ---
 
+## Flow Combination Apache JMeter & BlazeMeter
+![Flow](design/flow.jpg)
+
 ## 1. What is Apache JMeter?
 
 **Apache JMeter** is a Java-based open-source software that is very important for **load testing**. This tool can simulate a large group of users accessing and sending requests to a target server at the same time.
